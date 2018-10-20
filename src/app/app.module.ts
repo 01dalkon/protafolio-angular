@@ -19,7 +19,7 @@ import { HttpClientModule } from '@angular/common/http';
     PortafolioComponent,
     AboutComponent,
     ItemComponent
-  ],
+    ],
   imports: [
     BrowserModule,
     AppRoutingModule,
