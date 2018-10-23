@@ -3,5 +3,4 @@ export interface ProductoInterface {
     cod: string;
     titulo: string;
     url: string;
-  // tslint:disable-next-line:eofline
-  }
+}
